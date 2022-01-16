@@ -1,4 +1,4 @@
-#  Bitcoin \
+#  Bitcoin 
   
 *Bitcoin* is a simple price index iOS application. 
 
