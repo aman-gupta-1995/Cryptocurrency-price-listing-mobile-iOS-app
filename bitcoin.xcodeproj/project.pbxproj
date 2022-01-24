@@ -2,7 +2,7 @@
 {
 	archiveVersion = 1; 
 	classes = {   
-	};  
+	}; 
 	objectVersion = 48;     
 	objects = {     
 
