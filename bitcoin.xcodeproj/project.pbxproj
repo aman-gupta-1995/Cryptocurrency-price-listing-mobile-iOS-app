@@ -4,7 +4,7 @@
 	classes = {   
 	};
 	objectVersion = 48;  
-	objects = {
+	objects = { 
 
 /* Begin PBXBuildFile section */
 		1332A683A7D05D44E23C2B51 /* Pods_bitcoin.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4120177897C14A5C44FA750A /* Pods_bitcoin.framework */; };
