@@ -10,7 +10,7 @@
     <scenes>
         <!--View Controller--> 
         <scene sceneID="EHf-IW-A2E">
-            <objects>
+            <objects> 
                 <viewController id="01J-lp-oVM" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
@@ -26,7 +26,7 @@
                                     <constraint firstAttribute="width" constant="50" id="94M-UH-Bfi"/>
                                     <constraint firstAttribute="height" constant="50" id="hTY-Hc-OX0"/>
                                 </constraints> 
-                            </imageView> 
+                            </imageView>  
                         </subviews>
                         <color key="backgroundColor" red="0.15294117647058825" green="0.42352941176470588" blue="0.72941176470588232" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
