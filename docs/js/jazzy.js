@@ -4,7 +4,7 @@ if (typeof window.dash != 'undefined') {
   window.jazzy.docset = true
 }
 if (navigator.userAgent.match(/xcode/i)) {
-  document.documentElement.className += ' xcode'
+  document.documentElement.className += ' xcode' 
   window.jazzy.docset = true
 } 
 
