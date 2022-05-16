@@ -5,7 +5,7 @@
 ## Screenshots
 
 <img src="https://user-images.githubusercontent.com/3514796/28242142-805dfba2-69a4-11e7-903f-a5290c469e7f.png"
-alt="posts" width="230px" height="auto">
+alt="posts" width="230px" height="auto"> 
 <img src="https://user-images.githubusercontent.com/3514796/28245462-89f47246-6a07-11e7-8d46-2be70d8132b6.png"
 alt="posts" width="230px" height="auto">
 
