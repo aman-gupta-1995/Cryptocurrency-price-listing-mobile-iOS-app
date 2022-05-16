@@ -24,7 +24,7 @@ extension LineChartView {
         
         switch interval {
         case .Day:
-            formatter.dateFormat = "HH:mm"
+            formatter.dateFormat = "HH:mm" 
         case .Month:
             formatter.dateFormat = "MM/dd"
         default:
