@@ -30,7 +30,7 @@ $(".token").click(function(event) {
   $content.slideToggle(animationDuration);
 
   // Keeps the document from jumping to the hash.
-  var href = $(this).attr('href');
+  var href = $(this).attr('href'); 
   if (history.pushState) {
     history.pushState({}, '', href);
   } else {
