@@ -5,7 +5,7 @@ if (typeof window.dash != 'undefined') {
 }
 if (navigator.userAgent.match(/xcode/i)) {
   document.documentElement.className += ' xcode' 
-  window.jazzy.docset = true
+  window.jazzy.docset = true 
 } 
  
 // On doc load, toggle the URL hash discussion if present
