@@ -6,7 +6,7 @@
 //  Copyright © 2017 Filipe Santos Correa. All rights reserved.
 //  
 
-import UIKit 
+import UIKit  
 import Charts
 
 // MARK: - LineChartView extension, extends the LineChartView class from the Charts library
