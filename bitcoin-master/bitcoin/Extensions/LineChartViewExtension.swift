@@ -4,7 +4,7 @@
 //
 //  Created by Filipe Santos Correa on 16.07.17.
 //  Copyright © 2017 Filipe Santos Correa. All rights reserved.
-// 
+//  
 
 import UIKit 
 import Charts
