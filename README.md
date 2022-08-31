@@ -1,7 +1,7 @@
 #  Bitcoin 
 
 *Bitcoin* is a simple price index iOS application. 
-
+ 
 ## Screenshots
 
 <img src="https://user-images.githubusercontent.com/3514796/28242142-805dfba2-69a4-11e7-903f-a5290c469e7f.png"
