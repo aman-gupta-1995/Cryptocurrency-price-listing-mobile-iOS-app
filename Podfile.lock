@@ -5,7 +5,7 @@
   - Charts/Core (3.0.4)    
   - Realm (2.10.2):           
     - Realm/Headers (= 2.10.2)          
-  - Realm/Headers (2.10.2)          
+  - Realm/Headers (2.10.2)           
   - RealmSwift (2.10.2):     
     - Realm (= 2.10.2) 
  
