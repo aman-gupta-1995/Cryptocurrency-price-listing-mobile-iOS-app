@@ -1,6 +1,6 @@
  PODS:
   - Alamofire (4.5.1)  
-  - Charts (3.0.4): 
+  - Charts (3.0.4):  
     - Charts/Core (= 3.0.4)   
   - Charts/Core (3.0.4)  
   - Realm (2.10.2):      
