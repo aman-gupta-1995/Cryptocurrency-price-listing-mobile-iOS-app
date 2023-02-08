@@ -1,7 +1,7 @@
 // 
 //  bitcoinTests.swift
 //  bitcoinTests
-//
+// 
 //  Created by Filipe Santos Correa on 14.07.17.  
 //  Copyright © 2017 Filipe Santos Correa. All rights reserved.  
 //
